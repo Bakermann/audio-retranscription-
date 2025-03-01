@@ -1,0 +1,6 @@
+openai-whisper==20240930
+librosa==0.10.2.post1
+numpy==1.26.4
+torch==2.5.1
+faster_whisper==1.1.1
+pyannote.audio==3.3.2
